@@ -1,3 +1,7 @@
 body {
     font-family: 'Roboto Mono', monospace !important;
+    background-image: url(images/IMG_8470.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
