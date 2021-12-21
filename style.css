@@ -1,17 +1,16 @@
 body {
     font-family: 'Roboto Mono', monospace !important;
-    background-image: url(images/IMG_8470.jpg);
+    background-image: url(images/skyline.jpeg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
 
 .card {
-    margin: 0 auto; /* Added */
-    float: none; /* Added */
-    margin-bottom: 10px; /* Added */
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px; 
 }
-
 .card-img-top {
     border-radius: 3rem;
 }
