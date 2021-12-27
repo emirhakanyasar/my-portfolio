@@ -14,3 +14,7 @@ body {
 .card-img-top {
     border-radius: 3rem;
 }
+
+.emirphoto {
+    float: right;
+}
